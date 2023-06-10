@@ -1,0 +1,17 @@
+version: "3"
+services:
+  vite-frontend:
+    build:
+      context: ./vite-frontend
+    ports:
+      - "5173:80"
+    volumes:
+      - "./vite-react-app:/app"
+    depends_on:
+      - express-backend
+
+  express-backend:
+    build:
+      context: ./express-backend
+    ports:
+      - "3000:3000"
