@@ -67,10 +67,6 @@ docker-compose up --build
 5. Monitor task completion and progress using the follow-up feedback system.
 6. Visualize data and gain insights using the interactive dashboard.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
