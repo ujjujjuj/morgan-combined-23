@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Pankaj Sharma](https://github.com/Jarvis-AI007)
 - [Ujjwal Dimri](https://github.com/ujjujjuj)
 - [Vaibhav Meena](https://github.com/Frostbite-ai)
-- [Vanshika Gupta](https://github.com/member5)
+- [Vanshika Gupta](https://github.com/Vanshikaguptaa)
 
 ## API Documentation
 
