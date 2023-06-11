@@ -1,6 +1,6 @@
 [submodule "express-backend"]
 	path = express-backend
-	url = https://github.com/Frostbite-ai/MorganBackend
+	url = https://github.com/LAKSHAY162003/MorganBackend
 [submodule "vite-frontend"]
 	path = vite-frontend
 	url = https://github.com/ujjujjuj/morganstanley-hack23/
