@@ -2,6 +2,8 @@
 
 Upkaar Setu is a user-friendly data collection and management tool designed for the Tiny Miracles Foundation. It helps gather demographic and sociographic data of the people attending awareness sessions and visualize the collected data in the form of charts, insights, reports, and dashboards. This tool aids in tracking, reporting, evaluation, and progress monitoring.
 
+Our Solution: https://www.canva.com/design/DAFlZsjvP88/XHLIMlanNax-X1GOgDJjPA/edit?utm_content=DAFlZsjvP88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Table of Contents
 
 - [Features](#features)
@@ -22,9 +24,11 @@ Upkaar Setu is a user-friendly data collection and management tool designed for 
 - **Follow Up by User**: Integrated follow-up feedback system with simple yes/no questions to track task completion after events.
 - **Data Visualization**: Interactive charts and graphs on the dashboard for coordinators to gain insights and track the number of people impacted in real-time.
 
-![Dashboard Screenshot](https://cdn.discordapp.com/attachments/1090256514213748796/1117578351842955506/Screenshot_2023-06-12_at_3.46.40_AM.png) 
+![Dashboard Screenshot](![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/74f3c6c3-0cb0-432a-b500-ad5ceca8eefc)
+) 
 
-![Dashboard Screenshot](https://cdn.discordapp.com/attachments/1090256514213748796/1117581163582722258/Group_2.png)
+![Event_Registration Screenshot](![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/26711799-6a7a-4e94-9fd9-848ec6bcabcc)
+)
 
 ## Getting Started
 
