@@ -24,11 +24,9 @@ Our Solution: https://www.canva.com/design/DAFlZsjvP88/XHLIMlanNax-X1GOgDJjPA/ed
 - **Follow Up by User**: Integrated follow-up feedback system with simple yes/no questions to track task completion after events.
 - **Data Visualization**: Interactive charts and graphs on the dashboard for coordinators to gain insights and track the number of people impacted in real-time.
 
-![Dashboard Screenshot](![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/74f3c6c3-0cb0-432a-b500-ad5ceca8eefc)
-) 
+![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/edec2c93-0c34-4d20-a22f-edf920710eb5)
 
-![Event_Registration Screenshot](![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/26711799-6a7a-4e94-9fd9-848ec6bcabcc)
-)
+![image](https://github.com/ujjujjuj/morgan-combined-23/assets/97671310/e5994ac4-6bcb-449f-80bd-398db22bb33d)
 
 ## Getting Started
 
